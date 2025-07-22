@@ -117,7 +117,7 @@ export MIDDLEWARE_PORT=8000
 - **端口冲突/防火墙**: 确保8000、5000端口对内网开放，Nginx监听端口（如80）对外开放。
 - **Nginx 502错误**: 检查中间件服务是否正常运行。
 - **zip包下载失败**: 检查中间件 `/tmp/uploaded_zips` 目录权限。
-- **构建失败**: 查看后端日志（`server/app.log`）和rpmbuild_beta.sh输出。
+- **构建失败**: 查看后端日志（`server/app.log`）和rpmbuild.sh输出。
 - **多后端支持**: 在 `middleware/middleware.py` 的 `OS_IP_MAP` 中配置更多后端服务器。
 
 ## 贡献与反馈
