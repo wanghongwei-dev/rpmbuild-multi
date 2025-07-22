@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+python-socketio[client]
+python-multipart
+aiohttp
