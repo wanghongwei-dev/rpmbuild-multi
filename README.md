@@ -2,6 +2,7 @@
 
 ## 项目简介
 本项目为前后端分离的RPM包自助构建系统，采用三层分布式架构，支持多系统、多分支选择，实时日志推送，自动打包并提供下载，适合企业级RPM自动化构建场景。
+
 <img width="794" height="416" alt="企业微信截图_1753153837666" src="https://github.com/user-attachments/assets/37659e43-cbdb-4cc2-afab-bfe16df9c4df" />
 
 ### 架构
