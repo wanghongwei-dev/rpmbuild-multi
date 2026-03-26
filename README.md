@@ -124,4 +124,4 @@ export MIDDLEWARE_PORT=8000
 如有建议、bug或需求，欢迎提issue或联系维护者。
 
 ## 许可证
-本项目采用Apache License 2.0，详见LICENSE文件。
+本项目采用MIT License，详见LICENSE文件。
